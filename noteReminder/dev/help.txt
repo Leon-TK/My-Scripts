@@ -1,0 +1,20 @@
+# JSON file configuration
+
+### Folder path
+"FolderPath":""
+
+### Triggers
+"Triggers": [
+	"trigger1",
+	"trigger2",
+	...
+]
+
+- "atStartup". Show a note at startup
+- ["onceAfter", $]. Show after startup by $ minutes delay
+- "onceAfterRandom". Show after startup by random delay
+- ["timer", $]. Show a note each $ minute
+- "timerRandom". Show a note each random time
+
+### CMD file path
+"CmdExePath": "a",

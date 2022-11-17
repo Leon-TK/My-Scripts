@@ -1,0 +1,1 @@
+The script opens a file randomly. Initial goal is to show my notes every day

@@ -1,0 +1,13 @@
+[
+    {
+        "FolderPath": "a",
+        "CmdExePath": "a",
+        "Triggers": [
+            "atStartup",
+            { "onceAfter": 1 },
+            "onceAfterRandom",
+            { "timer": 1 },
+            "timerRandom"
+        ]
+    }
+]

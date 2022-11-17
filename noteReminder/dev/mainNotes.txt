@@ -1,0 +1,3 @@
+- Config parsing is not implemented
+- Time is not accurate
+- Random timer must choose random time after it has triggered
